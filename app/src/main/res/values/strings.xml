@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">States</string>
+    <string name="state_abbr">USA, %s</string>
+</resources>
